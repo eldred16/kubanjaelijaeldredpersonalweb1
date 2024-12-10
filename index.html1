@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div class="container p-5 my-5 border"></div> 
+  <div class="container pt-5"></div> 
+  <div class="container-fluid"></div>
+  <div class=".table"></div>
+  <table class="table"></table>
+  <img src="wall,jpg" class="rounded"  alt="">
+  <img src="waal.jpj" class="float-start" alt="">
+  <img src="wall.jpg" class="float-end" alt="">
+  <div class="alert alert-succes">
+    <strong>success</strong>
+    <br>This is an emergency
+    <button type="button" class="button-close" data-bs-dismiss="alert">home</button>
+    <button type="button" class="btn btn-pri">sony</button>
+    <button type="button" class="btn btn-pri">samsung</button>
+    <button type="button" class="btn btn-pri">apple</button>
+  </div>
+  <div class="spinner-border spinner-border-sm">apple</div>
+  <button class="btn btn-apple">
+<span class="spinner-border spinnher-border">apple</span>
+  </button>
+</body>
+</html>

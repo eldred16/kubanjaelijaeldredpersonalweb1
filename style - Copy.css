@@ -1,0 +1,31 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
+    background-image: url('wat5.jpg'); /* Ensure the correct path */
+    background-size: cover; /* Optional: Adjust how the image is displayed */
+    background-repeat: no-repeat; /* Optional: Avoid tiling */
+}
+/
+  }
+header {
+    background-color: rgb(19, 202, 19);
+
+    padding: 20px 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1, h2 {
+    color:whitesmoke;
+}
+
+ul {
+    list-style-type: square;
+}
